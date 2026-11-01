@@ -11,7 +11,7 @@ Iga õpilane esitab **oma** repo. Rühma pildid võivad olla samad.
 
 ## Kuidas esitada (ainult brauseris)
 
-1. **Pildid:** vajuta **Add file → Upload files**, lohista pildid kausta `pildid/` ja vajuta **Commit changes**.
+1. **Pildid:** ava failide nimekirjas kõigepealt kaust `pildid`, siis vajuta **Add file → Upload files**, lohista pildid sisse ja vajuta **Commit changes**. Kontroll otsib pilte ainult sellest kaustast.
 2. **Vastused:** ava see fail (`README.md`), vajuta pliiatsi ikooni ✏️, kirjuta vastused joonte `>` järele ja vajuta **Commit changes**.
 
 Pildi saad vastuse juurde lisada nii: `![kirjeldus](pildid/faili-nimi.jpg)`
